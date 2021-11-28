@@ -1,5 +1,5 @@
 {
-  "name": "SimpleCommentApplication",
+  "name": "Simple Applications with Es6 practical exercise",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
     "serve": "webpack serve --config webpack.config.dev.js"
   },
   "author": "",
+  "type": "module",
   "private": true,
   "devDependencies": {
     "@testing-library/dom": "^7.30.0",
