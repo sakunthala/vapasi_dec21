@@ -1,5 +1,6 @@
 export var e = 2.71828182846
 
-export default (x) => console.log('executing function');
+const fn = () => console.log('executing function');
+export default fn;
 
 

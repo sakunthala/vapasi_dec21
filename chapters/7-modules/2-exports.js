@@ -1,5 +1,5 @@
-const test => return 'hello test';
+const test = () => 'hello test';
 
-const f2 => return 'in fn 2';
+const f2 = () => 'in fn 2';
 
-export {test, f2};
+export {test as f1, f2};
